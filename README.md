@@ -1,6 +1,6 @@
 # Front end tools demo repository
 
-Questo repository installa il framework Foundation, gulp e grunt automatizzare la compilazione dei css, linting, uglify. 
+Questo repository installa il framework Foundation con bower, gulp e grunt con npm per automatizzare la compilazione dei css, linting, uglify. 
 
 ## Requisiti
 
